@@ -124,6 +124,7 @@
             this.labelToPaySumGasStation.Size = new System.Drawing.Size(52, 23);
             this.labelToPaySumGasStation.TabIndex = 12;
             this.labelToPaySumGasStation.Text = "0.00";
+            this.labelToPaySumGasStation.TextChanged += new System.EventHandler(this.labelToPaySumGasStation_TextChanged);
             // 
             // label3Rub
             // 
@@ -159,9 +160,11 @@
             // 
             this.textBoxSumGasStation.Location = new System.Drawing.Point(115, 165);
             this.textBoxSumGasStation.Name = "textBoxSumGasStation";
+            this.textBoxSumGasStation.ReadOnly = true;
             this.textBoxSumGasStation.Size = new System.Drawing.Size(70, 23);
             this.textBoxSumGasStation.TabIndex = 7;
             this.textBoxSumGasStation.Text = "0.00";
+            this.textBoxSumGasStation.TextChanged += new System.EventHandler(this.textBoxSumGasStation_TextChanged);
             // 
             // textBoxAmountGasStation
             // 
@@ -296,6 +299,7 @@
             this.labelToPaySumMiniCafe.Size = new System.Drawing.Size(52, 23);
             this.labelToPaySumMiniCafe.TabIndex = 12;
             this.labelToPaySumMiniCafe.Text = "0.00";
+            this.labelToPaySumMiniCafe.TextChanged += new System.EventHandler(this.labelToPaySumMiniCafe_TextChanged);
             // 
             // label4Rub
             // 
@@ -311,9 +315,11 @@
             // 
             this.textBoxAmountCocaCola.Location = new System.Drawing.Point(170, 151);
             this.textBoxAmountCocaCola.Name = "textBoxAmountCocaCola";
+            this.textBoxAmountCocaCola.ReadOnly = true;
             this.textBoxAmountCocaCola.Size = new System.Drawing.Size(72, 23);
             this.textBoxAmountCocaCola.TabIndex = 22;
             this.textBoxAmountCocaCola.Text = "0";
+            this.textBoxAmountCocaCola.TextChanged += new System.EventHandler(this.textBoxAmountCocaCola_TextChanged);
             // 
             // textBoxPriceCocaCola
             // 
@@ -333,14 +339,17 @@
             this.checkBoxCocaCola.TabIndex = 20;
             this.checkBoxCocaCola.Text = "Coca-Cola";
             this.checkBoxCocaCola.UseVisualStyleBackColor = true;
+            this.checkBoxCocaCola.CheckedChanged += new System.EventHandler(this.checkBoxCocaCola_CheckedChanged);
             // 
             // textBoxAmountFry
             // 
             this.textBoxAmountFry.Location = new System.Drawing.Point(170, 112);
             this.textBoxAmountFry.Name = "textBoxAmountFry";
+            this.textBoxAmountFry.ReadOnly = true;
             this.textBoxAmountFry.Size = new System.Drawing.Size(72, 23);
             this.textBoxAmountFry.TabIndex = 19;
             this.textBoxAmountFry.Text = "0";
+            this.textBoxAmountFry.TextChanged += new System.EventHandler(this.textBoxAmountFry_TextChanged);
             // 
             // textBoxPriceFry
             // 
@@ -360,14 +369,17 @@
             this.checkBoxFry.TabIndex = 17;
             this.checkBoxFry.Text = "Фри";
             this.checkBoxFry.UseVisualStyleBackColor = true;
+            this.checkBoxFry.CheckedChanged += new System.EventHandler(this.checkBoxFry_CheckedChanged);
             // 
             // textBoxAmountGamburger
             // 
             this.textBoxAmountGamburger.Location = new System.Drawing.Point(170, 74);
             this.textBoxAmountGamburger.Name = "textBoxAmountGamburger";
+            this.textBoxAmountGamburger.ReadOnly = true;
             this.textBoxAmountGamburger.Size = new System.Drawing.Size(72, 23);
             this.textBoxAmountGamburger.TabIndex = 16;
             this.textBoxAmountGamburger.Text = "0";
+            this.textBoxAmountGamburger.TextChanged += new System.EventHandler(this.textBoxAmountGamburger_TextChanged);
             // 
             // textBoxPiceGamburger
             // 
@@ -387,14 +399,17 @@
             this.checkBoxGamburger.TabIndex = 14;
             this.checkBoxGamburger.Text = "Гамбургер";
             this.checkBoxGamburger.UseVisualStyleBackColor = true;
+            this.checkBoxGamburger.CheckedChanged += new System.EventHandler(this.checkBoxGamburger_CheckedChanged);
             // 
             // textBoxAmountHotDog
             // 
             this.textBoxAmountHotDog.Location = new System.Drawing.Point(170, 38);
             this.textBoxAmountHotDog.Name = "textBoxAmountHotDog";
+            this.textBoxAmountHotDog.ReadOnly = true;
             this.textBoxAmountHotDog.Size = new System.Drawing.Size(72, 23);
             this.textBoxAmountHotDog.TabIndex = 13;
             this.textBoxAmountHotDog.Text = "0";
+            this.textBoxAmountHotDog.TextChanged += new System.EventHandler(this.textBoxAmountHotDog_TextChanged);
             // 
             // textBoxPriceHotDog
             // 
@@ -434,6 +449,7 @@
             this.checkBoxHotDog.TabIndex = 0;
             this.checkBoxHotDog.Text = "Хот-дог";
             this.checkBoxHotDog.UseVisualStyleBackColor = true;
+            this.checkBoxHotDog.CheckedChanged += new System.EventHandler(this.checkBoxHotDog_CheckedChanged);
             // 
             // groupBoxToPay
             // 
