@@ -1,5 +1,9 @@
 ﻿using System;
+using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
+using Timer = System.Windows.Forms.Timer;
 
 namespace OilStation
 {
@@ -29,6 +33,9 @@ namespace OilStation
         // всего к оплате
         decimal toPaySum;
 
+        // прибыль за день
+        decimal sumDay;
+
         public FormGasStation()
         {
             InitializeComponent();
@@ -41,6 +48,8 @@ namespace OilStation
         {
             sumPetrol = 0;
             sumMiniCafe = 0;
+            toPaySum = 0;
+            sumDay = 0;
             comboBoxPetrol.SelectedIndex = 0;
             textBoxPriceGasStation.Text = pricePetrol[0].ToString();
             textBoxPriceHotDog.Text = priceMiniCafe[0].ToString();
@@ -328,14 +337,6 @@ namespace OilStation
                     toPaySum = sumMiniCafe;
                 }
             }
-            if (toPaySum == 0)
-            {
-                labelToPaySum.Text = "0.00";
-            }
-            else 
-            {
-                labelToPaySum.Text = toPaySum.ToString();
-            }
         }
 
         /// <summary>
@@ -352,6 +353,72 @@ namespace OilStation
         private void labelToPaySumMiniCafe_TextChanged(object sender, EventArgs e)
         {
             Sum();
+        }
+
+        /// <summary>
+        /// Показывает общую сумму
+        /// </summary>
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (toPaySum == 0)
+            {
+                labelToPaySum.Text = "0.00";
+            }
+            else
+            {
+                labelToPaySum.Text = toPaySum.ToString();
+            }
+            timer.Start();
+        }
+
+        /// <summary>
+        /// Вызов сообщения о продолжении работы со старым клиентом или работа с новым
+        /// </summary>
+        DialogResult NewClient()
+        {
+            timer.Stop();
+            return MessageBox.Show("Завершить работу с клиентом?", "Новый клиент", 
+                MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
+
+        /// <summary>
+        /// Возвращение формы в исходное состояние
+        /// </summary>
+        void FormClear()
+        {
+            sumDay += toPaySum;
+            Text = sumDay.ToString();
+            sumPetrol = 0;
+            sumMiniCafe = 0;
+            comboBoxPetrol.SelectedIndex = 0;
+            textBoxPriceGasStation.Text = pricePetrol[0].ToString();
+            radioButtonAmount.Focus();
+            textBoxAmountGasStation.Text = "0.0";
+            labelToPaySum.Text = "0.00";
+            foreach (CheckBox checkBox in groupBoxMiniCafe.Controls.OfType<CheckBox>())
+            {
+                checkBox.Checked = false;
+            }
+        }
+
+        /// <summary>
+        /// После подсчета общей суммы запускает таймер=3 сек. 
+        /// </summary>
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = NewClient();
+            if (dialogResult == DialogResult.Yes)
+            {
+                FormClear();
+            }
+        }
+
+        /// <summary>
+        /// При закрытии формы появляется сообщение с суммой прибыли
+        /// </summary>
+        private void FormGasStation_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            MessageBox.Show(Text, "Прибыль", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

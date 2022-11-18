@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBoxGasStation = new System.Windows.Forms.GroupBox();
             this.textBoxPriceGasStation = new System.Windows.Forms.TextBox();
             this.groupBoxGasStationToPay = new System.Windows.Forms.GroupBox();
@@ -66,6 +67,7 @@
             this.labelToPaySum = new System.Windows.Forms.Label();
             this.label5Rub = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.timer = new System.Windows.Forms.Timer(this.components);
             this.groupBoxGasStation.SuspendLayout();
             this.groupBoxGasStationToPay.SuspendLayout();
             this.groupBoxNoName.SuspendLayout();
@@ -492,6 +494,12 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Посчитать";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // timer
+            // 
+            this.timer.Interval = 3000;
+            this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
             // FormGasStation
             // 
@@ -503,6 +511,7 @@
             this.Controls.Add(this.groupBoxGasStation);
             this.Name = "FormGasStation";
             this.Text = "GasStation";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormGasStation_FormClosing);
             this.Load += new System.EventHandler(this.LoadForm);
             this.groupBoxGasStation.ResumeLayout(false);
             this.groupBoxGasStation.PerformLayout();
@@ -560,6 +569,7 @@
         private System.Windows.Forms.Label labelToPaySum;
         private System.Windows.Forms.Label label5Rub;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Timer timer;
     }
 }
 
