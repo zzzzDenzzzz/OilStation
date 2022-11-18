@@ -68,12 +68,15 @@
             this.label5Rub = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.timer = new System.Windows.Forms.Timer(this.components);
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLabelDateTime = new System.Windows.Forms.ToolStripStatusLabel();
             this.groupBoxGasStation.SuspendLayout();
             this.groupBoxGasStationToPay.SuspendLayout();
             this.groupBoxNoName.SuspendLayout();
             this.groupBoxMiniCafe.SuspendLayout();
             this.groupBoxToPayMiniCafe.SuspendLayout();
             this.groupBoxToPay.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBoxGasStation
@@ -120,6 +123,7 @@
             // labelToPaySumGasStation
             // 
             this.labelToPaySumGasStation.AutoSize = true;
+            this.labelToPaySumGasStation.Cursor = System.Windows.Forms.Cursors.No;
             this.labelToPaySumGasStation.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelToPaySumGasStation.Location = new System.Drawing.Point(80, 37);
             this.labelToPaySumGasStation.Name = "labelToPaySumGasStation";
@@ -295,6 +299,7 @@
             // labelToPaySumMiniCafe
             // 
             this.labelToPaySumMiniCafe.AutoSize = true;
+            this.labelToPaySumMiniCafe.Cursor = System.Windows.Forms.Cursors.No;
             this.labelToPaySumMiniCafe.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelToPaySumMiniCafe.Location = new System.Drawing.Point(80, 37);
             this.labelToPaySumMiniCafe.Name = "labelToPaySumMiniCafe";
@@ -469,6 +474,7 @@
             // labelToPaySum
             // 
             this.labelToPaySum.AutoSize = true;
+            this.labelToPaySum.Cursor = System.Windows.Forms.Cursors.No;
             this.labelToPaySum.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelToPaySum.Location = new System.Drawing.Point(344, 45);
             this.labelToPaySum.Name = "labelToPaySum";
@@ -488,6 +494,7 @@
             // 
             // button1
             // 
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Location = new System.Drawing.Point(15, 35);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 49);
@@ -501,11 +508,27 @@
             this.timer.Interval = 3000;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabelDateTime});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 408);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(531, 22);
+            this.statusStrip1.TabIndex = 3;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // toolStripStatusLabelDateTime
+            // 
+            this.toolStripStatusLabelDateTime.Name = "toolStripStatusLabelDateTime";
+            this.toolStripStatusLabelDateTime.Size = new System.Drawing.Size(0, 17);
+            // 
             // FormGasStation
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(531, 430);
+            this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.groupBoxToPay);
             this.Controls.Add(this.groupBoxMiniCafe);
             this.Controls.Add(this.groupBoxGasStation);
@@ -525,7 +548,10 @@
             this.groupBoxToPayMiniCafe.PerformLayout();
             this.groupBoxToPay.ResumeLayout(false);
             this.groupBoxToPay.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -570,6 +596,8 @@
         private System.Windows.Forms.Label label5Rub;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Timer timer;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabelDateTime;
     }
 }
 

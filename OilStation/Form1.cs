@@ -368,6 +368,8 @@ namespace OilStation
             {
                 labelToPaySum.Text = toPaySum.ToString();
             }
+            timer1.Tick += t_t;
+            timer1.Start();
             timer.Start();
         }
 
@@ -377,6 +379,7 @@ namespace OilStation
         DialogResult NewClient()
         {
             timer.Stop();
+            timer1.Stop();
             return MessageBox.Show("Завершить работу с клиентом?", "Новый клиент", 
                 MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
@@ -419,6 +422,12 @@ namespace OilStation
         private void FormGasStation_FormClosing(object sender, FormClosingEventArgs e)
         {
             MessageBox.Show(Text, "Прибыль", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        Timer timer1 = new Timer() { Interval = 1000 };
+        void t_t(object sender, EventArgs e)
+        {
+            toolStripStatusLabelDateTime.Text = DateTime.Now.ToLongTimeString();
         }
     }
 }
