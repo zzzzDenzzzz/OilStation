@@ -86,6 +86,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.менюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItemChangeColor = new System.Windows.Forms.ToolStripMenuItem();
+            this.notifyIcon = new System.Windows.Forms.NotifyIcon(this.components);
             this.groupBoxGasStation.SuspendLayout();
             this.groupBoxGasStationToPay.SuspendLayout();
             this.groupBoxNoName.SuspendLayout();
@@ -102,7 +103,6 @@
             // 
             // groupBoxGasStation
             // 
-            resources.ApplyResources(this.groupBoxGasStation, "groupBoxGasStation");
             this.groupBoxGasStation.Controls.Add(this.textBoxPriceGasStation);
             this.groupBoxGasStation.Controls.Add(this.groupBoxGasStationToPay);
             this.groupBoxGasStation.Controls.Add(this.labelLitr);
@@ -114,6 +114,7 @@
             this.groupBoxGasStation.Controls.Add(this.comboBoxPetrol);
             this.groupBoxGasStation.Controls.Add(this.labelPrice);
             this.groupBoxGasStation.Controls.Add(this.Petrol);
+            resources.ApplyResources(this.groupBoxGasStation, "groupBoxGasStation");
             this.groupBoxGasStation.Name = "groupBoxGasStation";
             this.groupBoxGasStation.TabStop = false;
             // 
@@ -125,9 +126,9 @@
             // 
             // groupBoxGasStationToPay
             // 
-            resources.ApplyResources(this.groupBoxGasStationToPay, "groupBoxGasStationToPay");
             this.groupBoxGasStationToPay.Controls.Add(this.labelToPaySumGasStation);
             this.groupBoxGasStationToPay.Controls.Add(this.label3Rub);
+            resources.ApplyResources(this.groupBoxGasStationToPay, "groupBoxGasStationToPay");
             this.groupBoxGasStationToPay.Name = "groupBoxGasStationToPay";
             this.groupBoxGasStationToPay.TabStop = false;
             // 
@@ -168,9 +169,9 @@
             // 
             // groupBoxNoName
             // 
-            resources.ApplyResources(this.groupBoxNoName, "groupBoxNoName");
             this.groupBoxNoName.Controls.Add(this.radioButtonSum);
             this.groupBoxNoName.Controls.Add(this.radioButtonAmount);
+            resources.ApplyResources(this.groupBoxNoName, "groupBoxNoName");
             this.groupBoxNoName.Name = "groupBoxNoName";
             this.groupBoxNoName.TabStop = false;
             // 
@@ -197,12 +198,12 @@
             // 
             // comboBoxPetrol
             // 
-            resources.ApplyResources(this.comboBoxPetrol, "comboBoxPetrol");
             this.comboBoxPetrol.FormattingEnabled = true;
             this.comboBoxPetrol.Items.AddRange(new object[] {
             resources.GetString("comboBoxPetrol.Items"),
             resources.GetString("comboBoxPetrol.Items1"),
             resources.GetString("comboBoxPetrol.Items2")});
+            resources.ApplyResources(this.comboBoxPetrol, "comboBoxPetrol");
             this.comboBoxPetrol.Name = "comboBoxPetrol";
             this.comboBoxPetrol.SelectedIndexChanged += new System.EventHandler(this.comboBoxPetrol_SelectedIndexChanged);
             // 
@@ -218,7 +219,6 @@
             // 
             // groupBoxMiniCafe
             // 
-            resources.ApplyResources(this.groupBoxMiniCafe, "groupBoxMiniCafe");
             this.groupBoxMiniCafe.Controls.Add(this.groupBoxToPayMiniCafe);
             this.groupBoxMiniCafe.Controls.Add(this.textBoxAmountCocaCola);
             this.groupBoxMiniCafe.Controls.Add(this.textBoxPriceCocaCola);
@@ -234,14 +234,15 @@
             this.groupBoxMiniCafe.Controls.Add(this.labelAmountMiniCafe);
             this.groupBoxMiniCafe.Controls.Add(this.labelPriceMiniCafe);
             this.groupBoxMiniCafe.Controls.Add(this.checkBoxHotDog);
+            resources.ApplyResources(this.groupBoxMiniCafe, "groupBoxMiniCafe");
             this.groupBoxMiniCafe.Name = "groupBoxMiniCafe";
             this.groupBoxMiniCafe.TabStop = false;
             // 
             // groupBoxToPayMiniCafe
             // 
-            resources.ApplyResources(this.groupBoxToPayMiniCafe, "groupBoxToPayMiniCafe");
             this.groupBoxToPayMiniCafe.Controls.Add(this.labelToPaySumMiniCafe);
             this.groupBoxToPayMiniCafe.Controls.Add(this.label4Rub);
+            resources.ApplyResources(this.groupBoxToPayMiniCafe, "groupBoxToPayMiniCafe");
             this.groupBoxToPayMiniCafe.Name = "groupBoxToPayMiniCafe";
             this.groupBoxToPayMiniCafe.TabStop = false;
             // 
@@ -349,10 +350,10 @@
             // 
             // groupBoxToPay
             // 
-            resources.ApplyResources(this.groupBoxToPay, "groupBoxToPay");
             this.groupBoxToPay.Controls.Add(this.labelToPaySum);
             this.groupBoxToPay.Controls.Add(this.label5Rub);
             this.groupBoxToPay.Controls.Add(this.button1);
+            resources.ApplyResources(this.groupBoxToPay, "groupBoxToPay");
             this.groupBoxToPay.Name = "groupBoxToPay";
             this.groupBoxToPay.TabStop = false;
             // 
@@ -369,8 +370,8 @@
             // 
             // button1
             // 
-            resources.ApplyResources(this.button1, "button1");
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            resources.ApplyResources(this.button1, "button1");
             this.button1.Name = "button1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -382,48 +383,47 @@
             // 
             // statusStrip1
             // 
-            resources.ApplyResources(this.statusStrip1, "statusStrip1");
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabelDateTime,
             this.toolStripStatusLabelDataTime,
             this.toolStripDropDownButtonCurrentDay});
+            resources.ApplyResources(this.statusStrip1, "statusStrip1");
             this.statusStrip1.Name = "statusStrip1";
             // 
             // toolStripStatusLabelDateTime
             // 
-            resources.ApplyResources(this.toolStripStatusLabelDateTime, "toolStripStatusLabelDateTime");
             this.toolStripStatusLabelDateTime.Name = "toolStripStatusLabelDateTime";
+            resources.ApplyResources(this.toolStripStatusLabelDateTime, "toolStripStatusLabelDateTime");
             // 
             // toolStripStatusLabelDataTime
             // 
-            resources.ApplyResources(this.toolStripStatusLabelDataTime, "toolStripStatusLabelDataTime");
             this.toolStripStatusLabelDataTime.Name = "toolStripStatusLabelDataTime";
+            resources.ApplyResources(this.toolStripStatusLabelDataTime, "toolStripStatusLabelDataTime");
             // 
             // toolStripDropDownButtonCurrentDay
             // 
-            resources.ApplyResources(this.toolStripDropDownButtonCurrentDay, "toolStripDropDownButtonCurrentDay");
             this.toolStripDropDownButtonCurrentDay.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.toolStripDropDownButtonCurrentDay.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
             this.toolStripDropDownButtonCurrentDay.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItemLangEng,
             this.toolStripMenuItemLang});
+            resources.ApplyResources(this.toolStripDropDownButtonCurrentDay, "toolStripDropDownButtonCurrentDay");
             this.toolStripDropDownButtonCurrentDay.Name = "toolStripDropDownButtonCurrentDay";
             // 
             // toolStripMenuItemLangEng
             // 
-            resources.ApplyResources(this.toolStripMenuItemLangEng, "toolStripMenuItemLangEng");
             this.toolStripMenuItemLangEng.Name = "toolStripMenuItemLangEng";
+            resources.ApplyResources(this.toolStripMenuItemLangEng, "toolStripMenuItemLangEng");
             this.toolStripMenuItemLangEng.Click += new System.EventHandler(this.toolStripMenuItemLangEng_Click);
             // 
             // toolStripMenuItemLang
             // 
-            resources.ApplyResources(this.toolStripMenuItemLang, "toolStripMenuItemLang");
             this.toolStripMenuItemLang.Name = "toolStripMenuItemLang";
+            resources.ApplyResources(this.toolStripMenuItemLang, "toolStripMenuItemLang");
             this.toolStripMenuItemLang.Click += new System.EventHandler(this.toolStripMenuItemLang_Click);
             // 
             // panelChangeColor
             // 
-            resources.ApplyResources(this.panelChangeColor, "panelChangeColor");
             this.panelChangeColor.BackColor = System.Drawing.Color.Gray;
             this.panelChangeColor.Controls.Add(this.buttonChangeColor);
             this.panelChangeColor.Controls.Add(this.label3);
@@ -432,6 +432,7 @@
             this.panelChangeColor.Controls.Add(this.trackBarB);
             this.panelChangeColor.Controls.Add(this.trackBarR);
             this.panelChangeColor.Controls.Add(this.trackBarG);
+            resources.ApplyResources(this.panelChangeColor, "panelChangeColor");
             this.panelChangeColor.Name = "panelChangeColor";
             // 
             // buttonChangeColor
@@ -458,47 +459,52 @@
             // 
             // trackBarB
             // 
-            resources.ApplyResources(this.trackBarB, "trackBarB");
             this.trackBarB.LargeChange = 1;
+            resources.ApplyResources(this.trackBarB, "trackBarB");
             this.trackBarB.Maximum = 255;
             this.trackBarB.Name = "trackBarB";
             this.trackBarB.Scroll += new System.EventHandler(this.trackBarB_Scroll);
             // 
             // trackBarR
             // 
-            resources.ApplyResources(this.trackBarR, "trackBarR");
             this.trackBarR.LargeChange = 1;
+            resources.ApplyResources(this.trackBarR, "trackBarR");
             this.trackBarR.Maximum = 255;
             this.trackBarR.Name = "trackBarR";
             this.trackBarR.Scroll += new System.EventHandler(this.trackBarR_Scroll);
             // 
             // trackBarG
             // 
-            resources.ApplyResources(this.trackBarG, "trackBarG");
             this.trackBarG.LargeChange = 1;
+            resources.ApplyResources(this.trackBarG, "trackBarG");
             this.trackBarG.Maximum = 255;
             this.trackBarG.Name = "trackBarG";
             this.trackBarG.Scroll += new System.EventHandler(this.trackBarG_Scroll);
             // 
             // menuStrip1
             // 
-            resources.ApplyResources(this.menuStrip1, "menuStrip1");
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.менюToolStripMenuItem});
+            resources.ApplyResources(this.menuStrip1, "menuStrip1");
             this.menuStrip1.Name = "menuStrip1";
             // 
             // менюToolStripMenuItem
             // 
-            resources.ApplyResources(this.менюToolStripMenuItem, "менюToolStripMenuItem");
             this.менюToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItemChangeColor});
             this.менюToolStripMenuItem.Name = "менюToolStripMenuItem";
+            resources.ApplyResources(this.менюToolStripMenuItem, "менюToolStripMenuItem");
             // 
             // toolStripMenuItemChangeColor
             // 
-            resources.ApplyResources(this.toolStripMenuItemChangeColor, "toolStripMenuItemChangeColor");
             this.toolStripMenuItemChangeColor.Name = "toolStripMenuItemChangeColor";
+            resources.ApplyResources(this.toolStripMenuItemChangeColor, "toolStripMenuItemChangeColor");
             this.toolStripMenuItemChangeColor.Click += new System.EventHandler(this.toolStripMenuItemChangeColor_Click);
+            // 
+            // notifyIcon
+            // 
+            resources.ApplyResources(this.notifyIcon, "notifyIcon");
+            this.notifyIcon.DoubleClick += new System.EventHandler(this.notifyIcon_DoubleClick);
             // 
             // FormGasStation
             // 
@@ -514,6 +520,7 @@
             this.Name = "FormGasStation";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormGasStation_FormClosing);
             this.Load += new System.EventHandler(this.LoadForm);
+            this.Resize += new System.EventHandler(this.FormGasStation_Resize);
             this.groupBoxGasStation.ResumeLayout(false);
             this.groupBoxGasStation.PerformLayout();
             this.groupBoxGasStationToPay.ResumeLayout(false);
@@ -598,6 +605,7 @@
         private System.Windows.Forms.Button buttonChangeColor;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItemLang;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItemLangEng;
+        private System.Windows.Forms.NotifyIcon notifyIcon;
     }
 }
 

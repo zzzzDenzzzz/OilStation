@@ -117,705 +117,1494 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;textBoxPriceGasStation.Name" xml:space="preserve">
+    <value>textBoxPriceGasStation</value>
   </data>
-  <data name="&gt;&gt;labelToPaySumGasStation.Parent" xml:space="preserve">
+  <data name="&gt;&gt;textBoxPriceGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceGasStation.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStationToPay.Name" xml:space="preserve">
     <value>groupBoxGasStationToPay</value>
-  </data>
-  <data name="&gt;&gt;label2Rub.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPayMiniCafe.Name" xml:space="preserve">
-    <value>groupBoxToPayMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;panelChangeColor.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="textBoxSumGasStation.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="checkBoxHotDog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>79, 20</value>
-  </data>
-  <data name="&gt;&gt;Petrol.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="groupBoxMiniCafe.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;comboBoxPetrol.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="labelAmountMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="label3Rub.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountFry.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="buttonChangeColor.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 161</value>
-  </data>
-  <data name="textBoxPriceCocaCola.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 23</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;labelPriceMiniCafe.Name" xml:space="preserve">
-    <value>labelPriceMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;labelLitr.Name" xml:space="preserve">
-    <value>labelLitr</value>
-  </data>
-  <data name="labelPrice.Text" xml:space="preserve">
-    <value>Цена</value>
-  </data>
-  <data name="toolStripDropDownButtonCurrentDay.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value>Magenta</value>
-  </data>
-  <data name="&gt;&gt;groupBoxMiniCafe.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="textBoxPriceGasStation.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="groupBoxMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>271, 32</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceHotDog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="labelPrice.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 98</value>
-  </data>
-  <data name="groupBoxToPayMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
-    <value>223, 58</value>
-  </data>
-  <data name="label5Rub.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="labelToPaySumMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 18</value>
-  </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceHotDog.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;comboBoxPetrol.Name" xml:space="preserve">
-    <value>comboBoxPetrol</value>
-  </data>
-  <data name="labelLitr.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="labelAmountMiniCafe.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;textBoxPiceGamburger.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBoxAmountGasStation.Text" xml:space="preserve">
-    <value>0.0</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceFry.Name" xml:space="preserve">
-    <value>textBoxPriceFry</value>
-  </data>
-  <data name="labelLitr.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;radioButtonSum.Name" xml:space="preserve">
-    <value>radioButtonSum</value>
-  </data>
-  <data name="groupBoxNoName.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;trackBarG.Name" xml:space="preserve">
-    <value>trackBarG</value>
-  </data>
-  <data name="label3Rub.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="textBoxAmountGamburger.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="label2Rub.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="groupBoxToPayMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 198</value>
-  </data>
-  <data name="labelPriceMiniCafe.Text" xml:space="preserve">
-    <value>Цена</value>
-  </data>
-  <data name="trackBarB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>254, 40</value>
-  </data>
-  <data name="panelChangeColor.Location" type="System.Drawing.Point, System.Drawing">
-    <value>143, 8</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceHotDog.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountFry.Name" xml:space="preserve">
-    <value>textBoxAmountFry</value>
-  </data>
-  <data name="labelToPaySumGasStation.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 14.25pt, style=Bold</value>
-  </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>G</value>
-  </data>
-  <data name="&gt;&gt;labelLitr.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="Petrol.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;checkBoxCocaCola.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPayMiniCafe.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountFry.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="textBoxAmountFry.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="toolStripMenuItemLangEng.Size" type="System.Drawing.Size, System.Drawing">
-    <value>92, 22</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountCocaCola.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountHotDog.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="labelToPaySum.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="groupBoxGasStation.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label2Rub.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 16</value>
-  </data>
-  <data name="Petrol.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceFry.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="labelToPaySumGasStation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 23</value>
-  </data>
-  <data name="checkBoxGamburger.Text" xml:space="preserve">
-    <value>Гамбургер</value>
-  </data>
-  <data name="checkBoxFry.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 116</value>
-  </data>
-  <data name="radioButtonSum.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceCocaCola.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;checkBoxHotDog.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;panelChangeColor.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;checkBoxCocaCola.Name" xml:space="preserve">
-    <value>checkBoxCocaCola</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountCocaCola.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label3Rub.Parent" xml:space="preserve">
-    <value>groupBoxGasStationToPay</value>
-  </data>
-  <data name="&gt;&gt;checkBoxGamburger.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="groupBoxNoName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 125</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySumMiniCafe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label2Rub.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label5Rub.Location" type="System.Drawing.Point, System.Drawing">
-    <value>450, 52</value>
-  </data>
-  <data name="&gt;&gt;trackBarR.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="checkBoxHotDog.Text" xml:space="preserve">
-    <value>Хот-дог</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPay.ZOrder" xml:space="preserve">
-    <value>3</value>
   </data>
   <data name="&gt;&gt;groupBoxGasStationToPay.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="groupBoxGasStationToPay.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 198</value>
+  <data name="&gt;&gt;groupBoxGasStationToPay.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
   </data>
-  <data name="textBoxAmountHotDog.Text" xml:space="preserve">
+  <data name="&gt;&gt;groupBoxGasStationToPay.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.Name" xml:space="preserve">
+    <value>labelLitr</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.Name" xml:space="preserve">
+    <value>label2Rub</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.Name" xml:space="preserve">
+    <value>textBoxSumGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.Name" xml:space="preserve">
+    <value>textBoxAmountGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.Name" xml:space="preserve">
+    <value>groupBoxNoName</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label1Rub.Name" xml:space="preserve">
+    <value>label1Rub</value>
+  </data>
+  <data name="&gt;&gt;label1Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1Rub.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;label1Rub.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.Name" xml:space="preserve">
+    <value>comboBoxPetrol</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.Name" xml:space="preserve">
+    <value>labelPrice</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;Petrol.Name" xml:space="preserve">
+    <value>Petrol</value>
+  </data>
+  <data name="&gt;&gt;Petrol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Petrol.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;Petrol.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="groupBoxGasStation.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="groupBoxGasStation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 32</value>
+  </data>
+  <data name="groupBoxGasStation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 269</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="groupBoxGasStation.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBoxGasStation.Text" xml:space="preserve">
+    <value>Автозаправка</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStation.Name" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStation.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStation.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBoxPriceGasStation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 95</value>
+  </data>
+  <data name="textBoxPriceGasStation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 23</value>
+  </data>
+  <data name="textBoxPriceGasStation.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="textBoxPriceGasStation.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceGasStation.Name" xml:space="preserve">
+    <value>textBoxPriceGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceGasStation.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="&gt;&gt;labelToPaySumGasStation.Name" xml:space="preserve">
     <value>labelToPaySumGasStation</value>
   </data>
-  <data name="&gt;&gt;buttonChangeColor.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
+  <data name="&gt;&gt;labelToPaySumGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="checkBoxFry.AutoSize" type="System.Boolean, mscorlib">
+  <data name="&gt;&gt;labelToPaySumGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStationToPay</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumGasStation.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.Name" xml:space="preserve">
+    <value>label3Rub</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.Parent" xml:space="preserve">
+    <value>groupBoxGasStationToPay</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBoxGasStationToPay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 198</value>
+  </data>
+  <data name="groupBoxGasStationToPay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>223, 58</value>
+  </data>
+  <data name="groupBoxGasStationToPay.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="groupBoxGasStationToPay.Text" xml:space="preserve">
+    <value>К оплате</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStationToPay.Name" xml:space="preserve">
+    <value>groupBoxGasStationToPay</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStationToPay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStationToPay.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGasStationToPay.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelToPaySumGasStation.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>21, 24</value>
+  <data name="labelToPaySumGasStation.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
   </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>groupBoxToPay</value>
+  <data name="labelToPaySumGasStation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>93, 19</value>
   </data>
-  <data name="&gt;&gt;labelPriceMiniCafe.ZOrder" xml:space="preserve">
-    <value>13</value>
+  <data name="labelToPaySumGasStation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 23</value>
   </data>
-  <data name="textBoxPriceFry.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
+  <data name="labelToPaySumGasStation.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
   </data>
-  <data name="toolStripMenuItemLang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>92, 22</value>
+  <data name="labelToPaySumGasStation.Text" xml:space="preserve">
+    <value>0.00</value>
   </data>
-  <data name="label4Rub.AutoSize" type="System.Boolean, mscorlib">
+  <data name="&gt;&gt;labelToPaySumGasStation.Name" xml:space="preserve">
+    <value>labelToPaySumGasStation</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStationToPay</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumGasStation.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label3Rub.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3Rub.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="label3Rub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>186, 26</value>
+  </data>
+  <data name="label3Rub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
+  </data>
+  <data name="label3Rub.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label3Rub.Text" xml:space="preserve">
+    <value>руб.</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.Name" xml:space="preserve">
+    <value>label3Rub</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.Parent" xml:space="preserve">
+    <value>groupBoxGasStationToPay</value>
+  </data>
+  <data name="&gt;&gt;label3Rub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelLitr.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelLitr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="labelLitr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 142</value>
+  </data>
+  <data name="labelLitr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>18, 16</value>
+  </data>
+  <data name="labelLitr.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="labelLitr.Text" xml:space="preserve">
+    <value>л.</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.Name" xml:space="preserve">
+    <value>labelLitr</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;labelLitr.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label2Rub.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2Rub.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="label2Rub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 168</value>
+  </data>
+  <data name="label2Rub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
+  </data>
+  <data name="label2Rub.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label2Rub.Text" xml:space="preserve">
+    <value>руб.</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.Name" xml:space="preserve">
+    <value>label2Rub</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;label2Rub.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxSumGasStation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>117, 164</value>
+  </data>
+  <data name="textBoxSumGasStation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 23</value>
+  </data>
+  <data name="textBoxSumGasStation.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="textBoxSumGasStation.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.Name" xml:space="preserve">
+    <value>textBoxSumGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxSumGasStation.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBoxAmountGasStation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>117, 137</value>
+  </data>
+  <data name="textBoxAmountGasStation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 23</value>
+  </data>
+  <data name="textBoxAmountGasStation.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="textBoxAmountGasStation.Text" xml:space="preserve">
+    <value>0.0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.Name" xml:space="preserve">
+    <value>textBoxAmountGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGasStation.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.Name" xml:space="preserve">
+    <value>radioButtonSum</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.Parent" xml:space="preserve">
+    <value>groupBoxNoName</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAmount.Name" xml:space="preserve">
+    <value>radioButtonAmount</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAmount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAmount.Parent" xml:space="preserve">
+    <value>groupBoxNoName</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAmount.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBoxNoName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 125</value>
+  </data>
+  <data name="groupBoxNoName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 67</value>
+  </data>
+  <data name="groupBoxNoName.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.Name" xml:space="preserve">
+    <value>groupBoxNoName</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;groupBoxNoName.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="radioButtonSum.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonSum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="radioButtonSum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 42</value>
+  </data>
+  <data name="radioButtonSum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 20</value>
+  </data>
+  <data name="radioButtonSum.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="radioButtonSum.Text" xml:space="preserve">
+    <value>Сумма</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.Name" xml:space="preserve">
+    <value>radioButtonSum</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.Parent" xml:space="preserve">
+    <value>groupBoxNoName</value>
+  </data>
+  <data name="&gt;&gt;radioButtonSum.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="radioButtonAmount.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="radioButtonAmount.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9.75pt</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>531, 442</value>
+  <data name="radioButtonAmount.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 15</value>
   </data>
-  <data name="textBoxAmountHotDog.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="radioButtonAmount.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 20</value>
   </data>
-  <data name="checkBoxGamburger.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;Petrol.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>FormGasStation</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStationToPay.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="&gt;&gt;label3Rub.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="менюToolStripMenuItem.Text" xml:space="preserve">
-    <value>Меню</value>
-  </data>
-  <data name="label4Rub.Text" xml:space="preserve">
-    <value>руб.</value>
-  </data>
-  <data name="&gt;&gt;checkBoxGamburger.Name" xml:space="preserve">
-    <value>checkBoxGamburger</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySumGasStation.ZOrder" xml:space="preserve">
+  <data name="radioButtonAmount.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="checkBoxFry.Text" xml:space="preserve">
-    <value>Фри</value>
-  </data>
-  <data name="&gt;&gt;toolStripDropDownButtonCurrentDay.Name" xml:space="preserve">
-    <value>toolStripDropDownButtonCurrentDay</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGasStation.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="toolStripMenuItemChangeColor.Text" xml:space="preserve">
-    <value>Изменить цвет</value>
-  </data>
-  <data name="comboBoxPetrol.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItemLangEng.Name" xml:space="preserve">
-    <value>toolStripMenuItemLangEng</value>
-  </data>
-  <data name="labelToPaySumGasStation.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>R</value>
-  </data>
-  <data name="&gt;&gt;timer.Name" xml:space="preserve">
-    <value>timer</value>
-  </data>
-  <data name="&gt;&gt;label5Rub.Parent" xml:space="preserve">
-    <value>groupBoxToPay</value>
-  </data>
-  <data name="&gt;&gt;radioButtonAmount.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGasStation.Name" xml:space="preserve">
-    <value>textBoxAmountGasStation</value>
-  </data>
-  <data name="&gt;&gt;radioButtonSum.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="labelToPaySumMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 14.25pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountHotDog.Name" xml:space="preserve">
-    <value>textBoxAmountHotDog</value>
-  </data>
-  <data name="labelToPaySumGasStation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>93, 19</value>
-  </data>
-  <data name="&gt;&gt;checkBoxGamburger.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;менюToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label1Rub.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;groupBoxNoName.Name" xml:space="preserve">
-    <value>groupBoxNoName</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceCocaCola.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButtonAmount.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySum.Parent" xml:space="preserve">
-    <value>groupBoxToPay</value>
-  </data>
-  <data name="textBoxAmountFry.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 23</value>
-  </data>
-  <data name="radioButtonSum.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 20</value>
-  </data>
-  <data name="&gt;&gt;labelPrice.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="toolStripMenuItemLangEng.Text" xml:space="preserve">
-    <value>eng</value>
-  </data>
-  <data name="&gt;&gt;checkBoxHotDog.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySumMiniCafe.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="label3.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="менюToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
-  </data>
-  <data name="groupBoxGasStationToPay.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="labelPrice.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGamburger.Name" xml:space="preserve">
-    <value>textBoxAmountGamburger</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPay.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;labelPrice.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;textBoxPiceGamburger.Name" xml:space="preserve">
-    <value>textBoxPiceGamburger</value>
-  </data>
-  <data name="labelLitr.Size" type="System.Drawing.Size, System.Drawing">
-    <value>18, 16</value>
-  </data>
-  <data name="groupBoxGasStationToPay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>223, 58</value>
-  </data>
-  <data name="groupBoxGasStation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>252, 269</value>
-  </data>
-  <data name="&gt;&gt;checkBoxHotDog.Name" xml:space="preserve">
-    <value>checkBoxHotDog</value>
-  </data>
-  <data name="labelToPaySumMiniCafe.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySumMiniCafe.Name" xml:space="preserve">
-    <value>labelToPaySumMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;textBoxSumGasStation.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="labelAmountMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 16</value>
-  </data>
-  <data name="checkBoxGamburger.Size" type="System.Drawing.Size, System.Drawing">
-    <value>97, 20</value>
-  </data>
-  <data name="&gt;&gt;labelLitr.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBoxGasStation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 32</value>
-  </data>
-  <data name="&gt;&gt;buttonChangeColor.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="labelAmountMiniCafe.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label1Rub.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 101</value>
-  </data>
-  <data name="labelToPaySumMiniCafe.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="labelToPaySum.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="groupBoxMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 269</value>
-  </data>
-  <data name="&gt;&gt;radioButtonSum.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Petrol.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 16</value>
-  </data>
-  <data name="&gt;&gt;trackBarB.Name" xml:space="preserve">
-    <value>trackBarB</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>GasStation</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItemLangEng.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;trackBarG.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="labelPrice.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 16</value>
-  </data>
-  <data name="statusStrip1.Text" xml:space="preserve">
-    <value>statusStrip1</value>
-  </data>
-  <data name="&gt;&gt;labelPriceMiniCafe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStation.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItemLang.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>21, 73</value>
-  </data>
-  <data name="&gt;&gt;label4Rub.Parent" xml:space="preserve">
-    <value>groupBoxToPayMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceHotDog.Name" xml:space="preserve">
-    <value>textBoxPriceHotDog</value>
-  </data>
-  <data name="textBoxPriceGasStation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>68, 95</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabelDateTime.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBoxAmountFry.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;textBoxSumGasStation.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBoxAmountHotDog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 23</value>
-  </data>
-  <data name="groupBoxToPayMiniCafe.TabIndex" type="System.Int32, mscorlib">
-    <value>23</value>
-  </data>
-  <data name="checkBoxHotDog.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="trackBarG.Size" type="System.Drawing.Size, System.Drawing">
-    <value>254, 40</value>
-  </data>
-  <data name="&gt;&gt;trackBarR.Name" xml:space="preserve">
-    <value>trackBarR</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceGasStation.Name" xml:space="preserve">
-    <value>textBoxPriceGasStation</value>
-  </data>
-  <data name="toolStripStatusLabelDataTime.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 17</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>16, 16</value>
-  </data>
-  <data name="&gt;&gt;comboBoxPetrol.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>15, 16</value>
-  </data>
-  <data name="label1Rub.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabelDataTime.Name" xml:space="preserve">
-    <value>toolStripStatusLabelDataTime</value>
-  </data>
-  <data name="&gt;&gt;textBoxSumGasStation.Name" xml:space="preserve">
-    <value>textBoxSumGasStation</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountHotDog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxToPay.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;groupBoxMiniCafe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabelDateTime.Name" xml:space="preserve">
-    <value>toolStripStatusLabelDateTime</value>
-  </data>
-  <data name="&gt;&gt;panelChangeColor.Name" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="label4Rub.Location" type="System.Drawing.Point, System.Drawing">
-    <value>186, 25</value>
-  </data>
-  <data name="checkBoxCocaCola.Text" xml:space="preserve">
-    <value>Coca-Cola</value>
-  </data>
-  <data name="&gt;&gt;trackBarB.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="&gt;&gt;radioButtonSum.Parent" xml:space="preserve">
-    <value>groupBoxNoName</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>15, 16</value>
-  </data>
-  <data name="label5Rub.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 16</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountCocaCola.Name" xml:space="preserve">
-    <value>textBoxAmountCocaCola</value>
-  </data>
-  <data name="checkBoxCocaCola.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="labelAmountMiniCafe.Text" xml:space="preserve">
+  <data name="radioButtonAmount.Text" xml:space="preserve">
     <value>Количество</value>
-  </data>
-  <data name="&gt;&gt;groupBoxNoName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2Rub.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="groupBoxToPay.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 307</value>
-  </data>
-  <data name="&gt;&gt;label2Rub.Name" xml:space="preserve">
-    <value>label2Rub</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>94, 49</value>
-  </data>
-  <data name="textBoxPiceGamburger.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;label1Rub.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
   </data>
   <data name="&gt;&gt;radioButtonAmount.Name" xml:space="preserve">
     <value>radioButtonAmount</value>
   </data>
-  <data name="&gt;&gt;labelToPaySum.Name" xml:space="preserve">
-    <value>labelToPaySum</value>
+  <data name="&gt;&gt;radioButtonAmount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="checkBoxGamburger.AutoSize" type="System.Boolean, mscorlib">
+  <data name="&gt;&gt;radioButtonAmount.Parent" xml:space="preserve">
+    <value>groupBoxNoName</value>
+  </data>
+  <data name="&gt;&gt;radioButtonAmount.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label1Rub.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 420</value>
+  <data name="label1Rub.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
   </data>
-  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
-    <value>menuStrip1</value>
+  <data name="label1Rub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 101</value>
   </data>
-  <data name="labelToPaySum.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 23</value>
+  <data name="label1Rub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
   </data>
-  <data name="checkBoxFry.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="label1Rub.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
-  <data name="textBoxPriceFry.Text" xml:space="preserve">
-    <value>0.00</value>
+  <data name="label1Rub.Text" xml:space="preserve">
+    <value>руб.</value>
   </data>
-  <data name="panelChangeColor.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="textBoxPriceHotDog.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
+  <data name="&gt;&gt;label1Rub.Name" xml:space="preserve">
+    <value>label1Rub</value>
   </data>
   <data name="&gt;&gt;label1Rub.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label3Rub.Name" xml:space="preserve">
-    <value>label3Rub</value>
+  <data name="&gt;&gt;label1Rub.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;label1Rub.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="comboBoxPetrol.Items" xml:space="preserve">
+    <value>А-92</value>
+  </data>
+  <data name="comboBoxPetrol.Items1" xml:space="preserve">
+    <value>А-95</value>
+  </data>
+  <data name="comboBoxPetrol.Items2" xml:space="preserve">
+    <value>А-98</value>
+  </data>
+  <data name="comboBoxPetrol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 44</value>
+  </data>
+  <data name="comboBoxPetrol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 24</value>
+  </data>
+  <data name="comboBoxPetrol.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.Name" xml:space="preserve">
+    <value>comboBoxPetrol</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;comboBoxPetrol.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="labelPrice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelPrice.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="labelPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 98</value>
+  </data>
+  <data name="labelPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 16</value>
+  </data>
+  <data name="labelPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="labelPrice.Text" xml:space="preserve">
+    <value>Цена</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.Name" xml:space="preserve">
+    <value>labelPrice</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;labelPrice.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="Petrol.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Petrol.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="Petrol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 44</value>
+  </data>
+  <data name="Petrol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 16</value>
+  </data>
+  <data name="Petrol.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Petrol.Text" xml:space="preserve">
+    <value>Бензин</value>
+  </data>
+  <data name="&gt;&gt;Petrol.Name" xml:space="preserve">
+    <value>Petrol</value>
+  </data>
+  <data name="&gt;&gt;Petrol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Petrol.Parent" xml:space="preserve">
+    <value>groupBoxGasStation</value>
+  </data>
+  <data name="&gt;&gt;Petrol.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.Name" xml:space="preserve">
+    <value>groupBoxToPayMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.Name" xml:space="preserve">
+    <value>textBoxAmountCocaCola</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.Name" xml:space="preserve">
+    <value>textBoxPriceCocaCola</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.Name" xml:space="preserve">
+    <value>checkBoxCocaCola</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.Name" xml:space="preserve">
+    <value>textBoxAmountFry</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.Name" xml:space="preserve">
+    <value>textBoxPriceFry</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.Name" xml:space="preserve">
+    <value>checkBoxFry</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.Name" xml:space="preserve">
+    <value>textBoxAmountGamburger</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.Name" xml:space="preserve">
+    <value>textBoxPiceGamburger</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.Name" xml:space="preserve">
+    <value>checkBoxGamburger</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.Name" xml:space="preserve">
+    <value>textBoxAmountHotDog</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.Name" xml:space="preserve">
+    <value>textBoxPriceHotDog</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.Name" xml:space="preserve">
+    <value>labelAmountMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.Name" xml:space="preserve">
+    <value>labelPriceMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.Name" xml:space="preserve">
+    <value>checkBoxHotDog</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="groupBoxMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="groupBoxMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 32</value>
+  </data>
+  <data name="groupBoxMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>248, 269</value>
+  </data>
+  <data name="groupBoxMiniCafe.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="groupBoxMiniCafe.Text" xml:space="preserve">
+    <value>Мини-Кафе</value>
+  </data>
+  <data name="&gt;&gt;groupBoxMiniCafe.Name" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxMiniCafe.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxMiniCafe.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.Name" xml:space="preserve">
+    <value>labelToPaySumMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxToPayMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.Name" xml:space="preserve">
+    <value>label4Rub</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.Parent" xml:space="preserve">
+    <value>groupBoxToPayMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBoxToPayMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 198</value>
+  </data>
+  <data name="groupBoxToPayMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>223, 58</value>
+  </data>
+  <data name="groupBoxToPayMiniCafe.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="groupBoxToPayMiniCafe.Text" xml:space="preserve">
+    <value>К оплате</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.Name" xml:space="preserve">
+    <value>groupBoxToPayMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPayMiniCafe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="labelToPaySumMiniCafe.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelToPaySumMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="labelToPaySumMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 18</value>
+  </data>
+  <data name="labelToPaySumMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 23</value>
+  </data>
+  <data name="labelToPaySumMiniCafe.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="labelToPaySumMiniCafe.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.Name" xml:space="preserve">
+    <value>labelToPaySumMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxToPayMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySumMiniCafe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label4Rub.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4Rub.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="label4Rub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>186, 25</value>
+  </data>
+  <data name="label4Rub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
+  </data>
+  <data name="label4Rub.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label4Rub.Text" xml:space="preserve">
+    <value>руб.</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.Name" xml:space="preserve">
+    <value>label4Rub</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.Parent" xml:space="preserve">
+    <value>groupBoxToPayMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;label4Rub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxAmountCocaCola.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 153</value>
+  </data>
+  <data name="textBoxAmountCocaCola.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 23</value>
+  </data>
+  <data name="textBoxAmountCocaCola.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="textBoxAmountCocaCola.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.Name" xml:space="preserve">
+    <value>textBoxAmountCocaCola</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountCocaCola.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxPriceCocaCola.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 153</value>
+  </data>
+  <data name="textBoxPriceCocaCola.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 23</value>
+  </data>
+  <data name="textBoxPriceCocaCola.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="textBoxPriceCocaCola.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.Name" xml:space="preserve">
+    <value>textBoxPriceCocaCola</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceCocaCola.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="checkBoxCocaCola.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxCocaCola.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 155</value>
+  </data>
+  <data name="checkBoxCocaCola.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 20</value>
+  </data>
+  <data name="checkBoxCocaCola.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="checkBoxCocaCola.Text" xml:space="preserve">
+    <value>Coca-Cola</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.Name" xml:space="preserve">
+    <value>checkBoxCocaCola</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxCocaCola.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxAmountFry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 114</value>
+  </data>
+  <data name="textBoxAmountFry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 23</value>
+  </data>
+  <data name="textBoxAmountFry.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="textBoxAmountFry.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.Name" xml:space="preserve">
+    <value>textBoxAmountFry</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountFry.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBoxPriceFry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 114</value>
+  </data>
+  <data name="textBoxPriceFry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 23</value>
+  </data>
+  <data name="textBoxPriceFry.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="textBoxPriceFry.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.Name" xml:space="preserve">
+    <value>textBoxPriceFry</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceFry.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="checkBoxFry.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxFry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 116</value>
+  </data>
+  <data name="checkBoxFry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 20</value>
+  </data>
+  <data name="checkBoxFry.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="checkBoxFry.Text" xml:space="preserve">
+    <value>Фри</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.Name" xml:space="preserve">
+    <value>checkBoxFry</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxFry.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="textBoxAmountGamburger.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 76</value>
+  </data>
+  <data name="textBoxAmountGamburger.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 23</value>
+  </data>
+  <data name="textBoxAmountGamburger.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="textBoxAmountGamburger.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.Name" xml:space="preserve">
+    <value>textBoxAmountGamburger</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountGamburger.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="textBoxPiceGamburger.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 76</value>
+  </data>
+  <data name="textBoxPiceGamburger.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 23</value>
+  </data>
+  <data name="textBoxPiceGamburger.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="textBoxPiceGamburger.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.Name" xml:space="preserve">
+    <value>textBoxPiceGamburger</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPiceGamburger.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="checkBoxGamburger.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxGamburger.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 78</value>
+  </data>
+  <data name="checkBoxGamburger.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 20</value>
+  </data>
+  <data name="checkBoxGamburger.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="checkBoxGamburger.Text" xml:space="preserve">
+    <value>Гамбургер</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.Name" xml:space="preserve">
+    <value>checkBoxGamburger</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxGamburger.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="textBoxAmountHotDog.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 40</value>
+  </data>
+  <data name="textBoxAmountHotDog.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 23</value>
+  </data>
+  <data name="textBoxAmountHotDog.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="textBoxAmountHotDog.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.Name" xml:space="preserve">
+    <value>textBoxAmountHotDog</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxAmountHotDog.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="textBoxPriceHotDog.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 40</value>
+  </data>
+  <data name="textBoxPriceHotDog.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 23</value>
+  </data>
+  <data name="textBoxPriceHotDog.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="textBoxPriceHotDog.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.Name" xml:space="preserve">
+    <value>textBoxPriceHotDog</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;textBoxPriceHotDog.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="labelAmountMiniCafe.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelAmountMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="labelAmountMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 21</value>
+  </data>
+  <data name="labelAmountMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 16</value>
+  </data>
+  <data name="labelAmountMiniCafe.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="labelAmountMiniCafe.Text" xml:space="preserve">
+    <value>Количество</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.Name" xml:space="preserve">
+    <value>labelAmountMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelAmountMiniCafe.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="labelPriceMiniCafe.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelPriceMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="labelPriceMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 21</value>
+  </data>
+  <data name="labelPriceMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 16</value>
+  </data>
+  <data name="labelPriceMiniCafe.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="labelPriceMiniCafe.Text" xml:space="preserve">
+    <value>Цена</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.Name" xml:space="preserve">
+    <value>labelPriceMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;labelPriceMiniCafe.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="checkBoxHotDog.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBoxHotDog.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 42</value>
+  </data>
+  <data name="checkBoxHotDog.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 20</value>
+  </data>
+  <data name="checkBoxHotDog.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="checkBoxHotDog.Text" xml:space="preserve">
+    <value>Хот-дог</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.Name" xml:space="preserve">
+    <value>checkBoxHotDog</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.Parent" xml:space="preserve">
+    <value>groupBoxMiniCafe</value>
+  </data>
+  <data name="&gt;&gt;checkBoxHotDog.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.Name" xml:space="preserve">
+    <value>labelToPaySum</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.Parent" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.Name" xml:space="preserve">
+    <value>label5Rub</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.Parent" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBoxToPay.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="groupBoxToPay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 307</value>
+  </data>
+  <data name="groupBoxToPay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>506, 100</value>
+  </data>
+  <data name="groupBoxToPay.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="groupBoxToPay.Text" xml:space="preserve">
+    <value>ВСЕГО к оплате</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPay.Name" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPay.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxToPay.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="labelToPaySum.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelToPaySum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt, style=Bold</value>
+  </data>
+  <data name="labelToPaySum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>344, 45</value>
+  </data>
+  <data name="labelToPaySum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 23</value>
+  </data>
+  <data name="labelToPaySum.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="labelToPaySum.Text" xml:space="preserve">
+    <value>0.00</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.Name" xml:space="preserve">
+    <value>labelToPaySum</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.Parent" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;labelToPaySum.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label5Rub.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label5Rub.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt</value>
+  </data>
+  <data name="label5Rub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>450, 52</value>
+  </data>
+  <data name="label5Rub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
+  </data>
+  <data name="label5Rub.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="label5Rub.Text" xml:space="preserve">
+    <value>руб.</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.Name" xml:space="preserve">
+    <value>label5Rub</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.Parent" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;label5Rub.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 35</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 49</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Посчитать</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>groupBoxToPay</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>94, 17</value>
+  </metadata>
+  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 420</value>
+  </data>
+  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>531, 22</value>
+  </data>
+  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="statusStrip1.Text" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="toolStripStatusLabelDateTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 17</value>
+  </data>
+  <data name="toolStripStatusLabelDataTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 17</value>
   </data>
   <data name="toolStripDropDownButtonCurrentDay.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAIDSURBVDhPpZLrS5NhGMb3j4SWh0oRQVExD4gonkDpg4hG
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIDSURBVDhPpZLrS5NhGMb3j4SWh0oRQVExD4gonkDpg4hG
         YKxG6WBogkMZKgPNCEVJFBGdGETEvgwyO9DJE5syZw3PIlPEE9pgBCLZ5XvdMB8Ew8gXbl54nuf63dd9
         0OGSnwCahxbPRNPAPMw9Xpg6ZmF46kZZ0xSKzJPIrhpDWsVnpBhGkKx3nAX8Pv7z1zg8OoY/cITdn4fw
         bf/C0kYAN3Ma/w3gWfZL5kzTKBxjWyK2DftwI9tyMYCZKXbNHaD91bLYJrDXsYbrWfUKwJrPE9M2M1Oc
@@ -827,697 +1616,714 @@
         TgDQASA1MVpwzwAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="groupBoxToPayMiniCafe.Text" xml:space="preserve">
-    <value>К оплате</value>
-  </data>
-  <data name="labelPriceMiniCafe.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="label4Rub.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 16</value>
-  </data>
-  <data name="textBoxAmountGasStation.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="textBoxSumGasStation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 23</value>
-  </data>
-  <data name="buttonChangeColor.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="textBoxAmountGasStation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>117, 137</value>
-  </data>
-  <data name="&gt;&gt;textBoxPiceGamburger.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="textBoxSumGasStation.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceGasStation.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="&gt;&gt;label2Rub.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 35</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="textBoxPriceHotDog.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceGasStation.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;labelAmountMiniCafe.Name" xml:space="preserve">
-    <value>labelAmountMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;label4Rub.Name" xml:space="preserve">
-    <value>label4Rub</value>
-  </data>
-  <data name="&gt;&gt;checkBoxGamburger.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="&gt;&gt;groupBoxMiniCafe.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="radioButtonAmount.Text" xml:space="preserve">
-    <value>Количество</value>
-  </data>
-  <data name="&gt;&gt;groupBoxMiniCafe.Name" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="Petrol.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
-  </data>
-  <data name="Petrol.Text" xml:space="preserve">
-    <value>Бензин</value>
-  </data>
-  <data name="labelToPaySum.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountHotDog.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceFry.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>531, 24</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;radioButtonAmount.Parent" xml:space="preserve">
-    <value>groupBoxNoName</value>
-  </data>
-  <data name="&gt;&gt;trackBarB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="radioButtonAmount.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="textBoxPriceGasStation.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;менюToolStripMenuItem.Name" xml:space="preserve">
-    <value>менюToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStationToPay.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="label4Rub.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="trackBarB.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="buttonChangeColor.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 29</value>
-  </data>
-  <data name="&gt;&gt;labelAmountMiniCafe.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="labelPriceMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>116, 21</value>
-  </data>
-  <data name="trackBarR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>41, 18</value>
-  </data>
-  <data name="labelPriceMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 16</value>
-  </data>
-  <data name="buttonChangeColor.Text" xml:space="preserve">
-    <value>Применить</value>
-  </data>
-  <data name="&gt;&gt;labelAmountMiniCafe.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="groupBoxMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;label4Rub.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;buttonChangeColor.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="&gt;&gt;groupBoxNoName.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="toolStripMenuItemChangeColor.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 22</value>
-  </data>
-  <data name="radioButtonSum.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="label1Rub.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBoxPetrol.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 24</value>
-  </data>
-  <data name="label1Rub.Text" xml:space="preserve">
-    <value>руб.</value>
-  </data>
-  <data name="labelPriceMiniCafe.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="textBoxPriceFry.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 114</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPay.Name" xml:space="preserve">
-    <value>groupBoxToPay</value>
-  </data>
-  <data name="radioButtonSum.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 42</value>
-  </data>
-  <data name="checkBoxFry.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 20</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
-    <value>statusStrip1</value>
-  </data>
-  <data name="&gt;&gt;groupBoxNoName.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="textBoxPriceHotDog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 23</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceCocaCola.Name" xml:space="preserve">
-    <value>textBoxPriceCocaCola</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceGasStation.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="labelLitr.Text" xml:space="preserve">
-    <value>л.</value>
-  </data>
-  <data name="&gt;&gt;checkBoxFry.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="labelToPaySumGasStation.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="&gt;&gt;Petrol.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;textBoxSumGasStation.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;checkBoxCocaCola.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="labelToPaySum.Location" type="System.Drawing.Point, System.Drawing">
-    <value>344, 45</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="panelChangeColor.Size" type="System.Drawing.Size, System.Drawing">
-    <value>307, 199</value>
-  </data>
-  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="labelLitr.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="textBoxAmountGamburger.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 23</value>
-  </data>
-  <data name="textBoxPriceHotDog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 40</value>
-  </data>
-  <data name="label2Rub.Text" xml:space="preserve">
-    <value>руб.</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGasStation.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySumMiniCafe.Parent" xml:space="preserve">
-    <value>groupBoxToPayMiniCafe</value>
-  </data>
-  <data name="textBoxAmountGasStation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 23</value>
-  </data>
-  <data name="textBoxAmountCocaCola.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 153</value>
-  </data>
-  <data name="button1.Text" xml:space="preserve">
-    <value>Посчитать</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPayMiniCafe.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGasStation.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBoxPriceCocaCola.TabIndex" type="System.Int32, mscorlib">
-    <value>21</value>
-  </data>
-  <data name="checkBoxCocaCola.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 155</value>
-  </data>
-  <data name="groupBoxGasStation.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItemChangeColor.Name" xml:space="preserve">
-    <value>toolStripMenuItemChangeColor</value>
-  </data>
-  <data name="&gt;&gt;label3Rub.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="radioButtonAmount.Size" type="System.Drawing.Size, System.Drawing">
-    <value>93, 20</value>
-  </data>
-  <data name="trackBarR.Size" type="System.Drawing.Size, System.Drawing">
-    <value>257, 40</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStation.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="labelLitr.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 142</value>
-  </data>
-  <data name="labelPriceMiniCafe.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;trackBarR.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="textBoxAmountHotDog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 40</value>
-  </data>
-  <data name="comboBoxPetrol.Location" type="System.Drawing.Point, System.Drawing">
-    <value>68, 44</value>
-  </data>
-  <data name="label5Rub.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;timer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxToPay.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;trackBarR.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;labelPrice.Parent" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStation.Name" xml:space="preserve">
-    <value>groupBoxGasStation</value>
-  </data>
-  <data name="&gt;&gt;label1Rub.Name" xml:space="preserve">
-    <value>label1Rub</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItemChangeColor.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="checkBoxCocaCola.TabIndex" type="System.Int32, mscorlib">
-    <value>20</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label5Rub.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="label2Rub.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 168</value>
-  </data>
-  <data name="checkBoxHotDog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 42</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItemLang.Name" xml:space="preserve">
-    <value>toolStripMenuItemLang</value>
-  </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="labelToPaySumMiniCafe.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 23</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStation.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="textBoxSumGasStation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>117, 164</value>
-  </data>
-  <data name="label5Rub.Text" xml:space="preserve">
-    <value>руб.</value>
-  </data>
-  <data name="&gt;&gt;buttonChangeColor.Name" xml:space="preserve">
-    <value>buttonChangeColor</value>
-  </data>
-  <data name="checkBoxGamburger.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 78</value>
-  </data>
-  <data name="label4Rub.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt</value>
-  </data>
-  <data name="trackBarR.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;Petrol.Name" xml:space="preserve">
-    <value>Petrol</value>
-  </data>
-  <data name="&gt;&gt;panelChangeColor.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceCocaCola.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="labelToPaySum.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 14.25pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;labelAmountMiniCafe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountCocaCola.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="toolStripStatusLabelDateTime.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 17</value>
-  </data>
-  <data name="textBoxAmountCocaCola.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="menuStrip1.Text" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="&gt;&gt;label4Rub.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="groupBoxGasStationToPay.Text" xml:space="preserve">
-    <value>К оплате</value>
-  </data>
-  <data name="&gt;&gt;checkBoxFry.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label5Rub.Name" xml:space="preserve">
-    <value>label5Rub</value>
-  </data>
-  <data name="label3Rub.Location" type="System.Drawing.Point, System.Drawing">
-    <value>186, 26</value>
-  </data>
-  <data name="groupBoxToPay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>506, 100</value>
-  </data>
-  <data name="labelAmountMiniCafe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 21</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabelDataTime.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBoxPiceGamburger.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 23</value>
-  </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;textBoxPriceFry.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBoxFry.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
-    <value>panelChangeColor</value>
-  </data>
-  <data name="trackBarG.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="radioButtonAmount.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 15</value>
-  </data>
-  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="label1Rub.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 16</value>
-  </data>
-  <data name="radioButtonSum.Text" xml:space="preserve">
-    <value>Сумма</value>
-  </data>
-  <data name="textBoxPiceGamburger.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="&gt;&gt;label1Rub.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="groupBoxNoName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 67</value>
-  </data>
-  <data name="toolStripMenuItemLang.Text" xml:space="preserve">
-    <value>рус</value>
-  </data>
-  <data name="checkBoxCocaCola.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 20</value>
-  </data>
-  <data name="textBoxPriceGasStation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>129, 23</value>
-  </data>
-  <data name="&gt;&gt;labelLitr.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGamburger.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="textBoxAmountFry.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 114</value>
-  </data>
-  <data name="groupBoxMiniCafe.Text" xml:space="preserve">
-    <value>Мини-Кафе</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGasStationToPay.Name" xml:space="preserve">
-    <value>groupBoxGasStationToPay</value>
-  </data>
-  <data name="groupBoxGasStation.Text" xml:space="preserve">
-    <value>Автозаправка</value>
-  </data>
-  <data name="radioButtonAmount.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="labelPrice.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;comboBoxPetrol.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="label2Rub.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="textBoxPriceCocaCola.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 153</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label5Rub.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;trackBarB.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;label5Rub.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label3Rub.Text" xml:space="preserve">
-    <value>руб.</value>
-  </data>
-  <data name="labelToPaySumMiniCafe.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;checkBoxHotDog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBoxFry.Name" xml:space="preserve">
-    <value>checkBoxFry</value>
-  </data>
-  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>531, 22</value>
-  </data>
-  <data name="&gt;&gt;groupBoxToPay.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="textBoxAmountCocaCola.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="&gt;&gt;textBoxPiceGamburger.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="textBoxPriceFry.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 23</value>
-  </data>
-  <data name="textBoxAmountGamburger.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="textBoxPiceGamburger.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 76</value>
-  </data>
-  <data name="labelToPaySumGasStation.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="Petrol.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 44</value>
-  </data>
-  <data name="radioButtonSum.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;trackBarG.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="panelChangeColor.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;trackBarG.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBoxPetrol.Items" xml:space="preserve">
-    <value>А-92</value>
-  </data>
-  <data name="textBoxAmountGamburger.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 76</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountFry.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
-  </data>
-  <data name="&gt;&gt;labelPriceMiniCafe.Parent" xml:space="preserve">
-    <value>groupBoxMiniCafe</value>
-  </data>
-  <data name="&gt;&gt;checkBoxCocaCola.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;toolStripDropDownButtonCurrentDay.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripDropDownButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="textBoxPriceCocaCola.Text" xml:space="preserve">
-    <value>0.00</value>
-  </data>
-  <data name="textBoxAmountCocaCola.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 23</value>
-  </data>
-  <data name="&gt;&gt;labelPrice.Name" xml:space="preserve">
-    <value>labelPrice</value>
-  </data>
-  <data name="checkBoxHotDog.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;labelToPaySumGasStation.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="toolStripDropDownButtonCurrentDay.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>Magenta</value>
   </data>
   <data name="toolStripDropDownButtonCurrentDay.Size" type="System.Drawing.Size, System.Drawing">
     <value>13, 20</value>
   </data>
-  <data name="trackBarG.Location" type="System.Drawing.Point, System.Drawing">
-    <value>41, 64</value>
+  <data name="toolStripMenuItemLangEng.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
   </data>
-  <data name="groupBoxToPay.Text" xml:space="preserve">
-    <value>ВСЕГО к оплате</value>
+  <data name="toolStripMenuItemLangEng.Text" xml:space="preserve">
+    <value>eng</value>
   </data>
-  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
+  <data name="toolStripMenuItemLang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
   </data>
-  <data name="&gt;&gt;textBoxAmountGamburger.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="toolStripMenuItemLang.Text" xml:space="preserve">
+    <value>рус</value>
   </data>
-  <data name="label3Rub.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;buttonChangeColor.Name" xml:space="preserve">
+    <value>buttonChangeColor</value>
   </data>
-  <data name="&gt;&gt;groupBoxToPayMiniCafe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;buttonChangeColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9.75pt, style=Bold</value>
+  <data name="&gt;&gt;buttonChangeColor.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
   </data>
-  <data name="&gt;&gt;labelToPaySum.Type" xml:space="preserve">
+  <data name="&gt;&gt;buttonChangeColor.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
   </data>
-  <data name="trackBarB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>41, 115</value>
-  </data>
-  <data name="&gt;&gt;textBoxAmountGamburger.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBoxPetrol.Items1" xml:space="preserve">
-    <value>А-95</value>
-  </data>
-  <data name="comboBoxPetrol.Items2" xml:space="preserve">
-    <value>А-98</value>
-  </data>
-  <data name="label3Rub.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 16</value>
-  </data>
-  <data name="labelPrice.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
   </data>
   <data name="&gt;&gt;label1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;labelToPaySum.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.Name" xml:space="preserve">
+    <value>trackBarB</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.Name" xml:space="preserve">
+    <value>trackBarR</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.Name" xml:space="preserve">
+    <value>trackBarG</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="panelChangeColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>143, 8</value>
+  </data>
+  <data name="panelChangeColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>307, 199</value>
+  </data>
+  <data name="panelChangeColor.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="panelChangeColor.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;panelChangeColor.Name" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;panelChangeColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelChangeColor.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelChangeColor.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="buttonChangeColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 161</value>
+  </data>
+  <data name="buttonChangeColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>277, 29</value>
+  </data>
+  <data name="buttonChangeColor.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="buttonChangeColor.Text" xml:space="preserve">
+    <value>Применить</value>
+  </data>
+  <data name="&gt;&gt;buttonChangeColor.Name" xml:space="preserve">
+    <value>buttonChangeColor</value>
+  </data>
+  <data name="&gt;&gt;buttonChangeColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonChangeColor.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;buttonChangeColor.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
     <value>22, 122</value>
   </data>
-  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>94, 17</value>
-  </metadata>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>15, 16</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 73</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>15, 16</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9.75pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 24</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>16, 16</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="trackBarB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 115</value>
+  </data>
+  <data name="trackBarB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 40</value>
+  </data>
+  <data name="trackBarB.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.Name" xml:space="preserve">
+    <value>trackBarB</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;trackBarB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="trackBarR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 18</value>
+  </data>
+  <data name="trackBarR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 40</value>
+  </data>
+  <data name="trackBarR.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.Name" xml:space="preserve">
+    <value>trackBarR</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;trackBarR.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="trackBarG.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 64</value>
+  </data>
+  <data name="trackBarG.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 40</value>
+  </data>
+  <data name="trackBarG.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.Name" xml:space="preserve">
+    <value>trackBarG</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.Parent" xml:space="preserve">
+    <value>panelChangeColor</value>
+  </data>
+  <data name="&gt;&gt;trackBarG.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>204, 17</value>
   </metadata>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>531, 24</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="менюToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 20</value>
+  </data>
+  <data name="менюToolStripMenuItem.Text" xml:space="preserve">
+    <value>Меню</value>
+  </data>
+  <data name="toolStripMenuItemChangeColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="toolStripMenuItemChangeColor.Text" xml:space="preserve">
+    <value>Изменить цвет</value>
+  </data>
+  <metadata name="notifyIcon.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>313, 17</value>
+  </metadata>
+  <data name="notifyIcon.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAQEAAAAEAIAAoQgAAFgAAACgAAABAAAAAgAAAAAEAIAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA
+        AAAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8bAMD/VADA/38AwP+mAMD/zADA
+        /+QAwP/1AMD//wDA//oAwP/uAMD/3QDA/8wAwP+mAMD/fwDA/1QAwP8bAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/MwDA/5AAwP/bAMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        /9sAwP+QAMD/MwDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/w0AwP90AMD/1gDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP/WAMD/dADA/w0AwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/EADA
+        /4AAwP/tAMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP/tAMD/gQDA
+        /xAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8BAMD/YQDA/+sAwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP/rAMD/YQDA/wEAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8kAMD/xADA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMH//wDC//8Awv//AML//wDC//8Awf//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP/EAMD/IwDA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP9VAMD/8QDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8Awf//AMb//wDK//8Azv//AND//wDR//8A0f//ANH//wDR//8A0f//ANH//wDQ
+        //8Azv//AMr//wDG//8Awf//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //EAwP9VAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wEAwP+MAMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMH//wDH//8Azf//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDN//8Ax///AMH//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA/4wAwP8BAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wYAwP+lAMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8Awf//AMj//wDQ//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDQ
+        //8AyP//AMH//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD/pQDA/wYAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wYAwP+3AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8Ax///AND//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDQ//8Ax///AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP+3AMD/BgDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wEAwP+kAMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDC//8Azf//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDN//8Awv//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA/6QAwP8BAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP+KAMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDF
+        //8A0P//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//AND//wDF//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD/iwDA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP9VAMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDH//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMf//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP9VAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8jAMD/8ADA
+        //8AwP//AMD//wDA//8AwP//AMD//wDI//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8AyP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD/8ADA/yMAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8BAMD/xADA//8AwP//AMD//wDA//8AwP//AMD//wDH//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDH//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP/EAMD/AQDA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/YQDA//8AwP//AMD//wDA//8AwP//AMD//wDF//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMX//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        /2EAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/EADA/+oAwP//AMD//wDA//8AwP//AMD//wDC
+        //8A0P//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDQ//8Awv//AMD//wDA
+        //8AwP//AMD//wDA//8AwP/qAMD/EgDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/38AwP//AMD//wDA
+        //8AwP//AMD//wDA//8Azf//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8AxO//AGJ3/wBi
+        d/8AYnf/AGJ3/wBid/8AYnf/AGJ3/wBid/8AYnf/AGJ3/wBid/8AYnf/AGJ3/wBid/8AYnf/AGJ3/wBi
+        d/8AYnf/AGJ3/wBid/8AYnf/AGJ3/wBid/8AYnf/ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//AM3//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA/4AAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /w0AwP/uAMD//wDA//8AwP//AMD//wDA//8Ax///ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ALjh/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8Ax///AMD//wDA//8AwP//AMD//wDA//8AwP/uAMD/DQDA
+        /wAAwP8AAMD/AADA/wAAwP90AMD//wDA//8AwP//AMD//wDA//8Awf//AND//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wC44f8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AND//wDB//8AwP//AMD//wDA
+        //8AwP//AMD//wDA/3QAwP8AAMD/AADA/wAAwP8BAMD/2wDA//8AwP//AMD//wDA//8AwP//AMj//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Awu3/AFRm/wBUZv8AVGb/AFRm/wBU
+        Zv8AVGb/AFRm/wBUZv8AVGb/AFRm/wBUZv8AVGb/AFRm/wBUZv8AVGb/AFRm/wBUZv8AVGb/AFRm/wBU
+        Zv8AVGb/AFRm/wBUZv8AVGb/ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8Ayf//AMD//wDA//8AwP//AMD//wDA//8AwP/bAMD/AQDA/wAAwP8AAMD/OwDA//8AwP//AMD//wDA
+        //8AwP//AMH//wDQ//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//AND//wDB//8AwP//AMD//wDA//8AwP//AMD//wDA/zsAwP8AAMD/AADA
+        /5AAwP//AMD//wDA//8AwP//AMD//wDH//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Ax///AMD//wDA//8AwP//AMD//wDA
+        //8AwP+QAMD/AADA/wAAwP/YAMD//wDA//8AwP//AMD//wDA//8Azf//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ALjg/wABAf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAI
+        Cv8AxvL/ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AM3//wDA
+        //8AwP//AMD//wDA//8AwP//AMD/2QDA/wAAwP8dAMD//wDA//8AwP//AMD//wDA//8Awf//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wBvh/8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AIWi/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8Awv//AMD//wDA//8AwP//AMD//wDA//8AwP8eAMD/VgDA//8AwP//AMD//wDA
+        //8AwP//AMb//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8AIyv/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wA7SP8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMb//wDA//8AwP//AMD//wDA//8AwP//AMD/VgDA
+        /4QAwP//AMD//wDA//8AwP//AMD//wDK//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8Aqs//AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAwT/AL3n/wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDK//8AwP//AMD//wDA
+        //8AwP//AMD//wDA/4QAwP+tAMD//wDA//8AwP//AMD//wDA//8Azf//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AGB1/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wB2kP8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8Azf//AMD//wDA//8AwP//AMD//wDA//8AwP+tAMD/zADA//8AwP//AMD//wDA//8AwP//AND//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AM/9/wAYHf8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8ALDb/ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//AND//wDA//8AwP//AMD//wDA//8AwP//AMD/zADA/+UAwP//AMD//wDA
+        //8AwP//AMH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wCb
+        vf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wCz2/8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Awf//AMD//wDA//8AwP//AMD//wDA
+        /+AAwP/yAMD//wDA//8AwP//AMD//wDC//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8AUWP/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AZ37/ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AML//wDA
+        //8AwP//AMD//wDA//8AwP/sAMD//wDA//8AwP//AMD//wDA//8Aw///ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8Ay/j/AA0Q/wAAAP8AAAD/AAAA/wAAAP8AAAD/ACUt/wAv
+        Of8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AN0P/ABsh/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AB4k/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDD//8AwP//AMD//wDA//8AwP//AMD/+QDA//8AwP//AMD//wDA//8AwP//AMP//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AI2s/wAAAP8AAAD/AAAA/wAA
+        AP8AJzD/AI6t/wDP/f8Avef/ABAU/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AHiT/AMfz/wDO+/8Agp//AB4l/wAAAP8AAAD/AAAA/wAAAP8Apcn/ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8Aw///AMD//wDA//8AwP//AMD//wDA//kAwP/yAMD//wDA
+        //8AwP//AMD//wDC//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wBC
+        Uf8AAAD/AAAA/wArNP8AkbH/AND+/wDR//8A0f//ANH//wCPrv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAwT/AKTI/wDR//8A0f//ANH//wDO+/8AhqP/ACEo/wAAAP8AAAD/AFpu/wDR
+        //8As9v/ALPb/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AML//wDA//8AwP//AMD//wDA
+        //8AwP/sAMD/5QDA//8AwP//AMD//wDA//8Awf//ANH//wDR//8A0f//ANH//wDR//8A0f//AM36/wBv
+        iP8AKzX/AC03/wBwif8ABgf/AC44/wCVtv8A0f//ANH//wDR//8Awu3/AJi6/wDR//8A0f//AFFj/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AGd+/wDR//8A0f//AJS1/wDH8/8A0f//ANH//wDP
+        /f8Aiaf/ACQs/wAQFP8ALzn/AAAA/wAAAP8AJzD/AK/W/wDR//8A0f//ANH//wDR//8A0f//ANH//wDB
+        //8AwP//AMD//wDA//8AwP//AMD/4ADA/8wAwP//AMD//wDA//8AwP//AMD//wDQ//8A0f//ANH//wDR
+        //8A0f//ANH//wBFVP8AAAD/AAAA/wAAAP8AAAD/ADA6/wDR//8A0f//ANH//wDA6v8AYnj/AAsN/wAF
+        Bv8AqM3/ANH//wDH8/8AHCL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AC03/wDO+/8A0f//AJW2/wAB
+        Af8AEBT/AG2F/wDG8v8A0f//ANH//wDK9/8AEBT/AAAA/wAAAP8AAAD/AAAA/wAaIP8AzPn/ANH//wDR
+        //8A0f//ANH//wDQ//8AwP//AMD//wDA//8AwP//AMD//wDA/8wAwP+tAMD//wDA//8AwP//AMD//wDA
+        //8Azf//ANH//wDR//8A0f//ANH//wCq0P8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AqtD/ANH//wDR
+        //8AJy//AAAA/wAAAP8AAAD/ACIq/wDK9v8A0f//AKLG/wACA/8AAAD/AAAA/wAAAP8AAAD/AAkL/wCz
+        2v8A0f//AMDq/wAUGP8AAAD/AAAA/wAAAP8ALDb/ANH//wDR//8Amrz/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AJi5/wDR//8A0f//ANH//wDR//8Azf//AMD//wDA//8AwP//AMD//wDA//8AwP+tAMD/hADA
+        //8AwP//AMD//wDA//8AwP//AMr//wDR//8A0f//ANH//wDR//8AiKb/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AIup/wDR//8A0f//AHOM/wAAAP8AAAD/AAAA/wAAAP8AX3T/ANH//wDR//8AZnz/AAAA/wAA
+        AP8AAAD/AAAA/wB9mf8A0f//ANH//wBLW/8AAAD/AAAA/wAAAP8AAAD/AHSN/wDR//8A0f//AI2s/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wCNrP8A0f//ANH//wDR//8A0f//AMr//wDA//8AwP//AMD//wDA
+        //8AwP//AMD/hADA/1QAwP//AMD//wDA//8AwP//AMD//wDG//8A0f//ANH//wDR//8A0f//AKnO/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wCqz/8A0f//ANH//wDB7P8ABwn/AAAA/wACAv8AUGL/AL3m/wDR
+        //8A0f//AM36/wArNf8AAAD/AAAA/wA/Tf8A0f//ANH//wDR//8Aveb/AFBi/wACAv8AAAD/AAcJ/wDC
+        7f8A0f//ANH//wC95/8ABgf/AAAA/wAAAP8AAAD/AAAA/wAHCP8Avef/ANH//wDR//8A0f//ANH//wDG
+        //8AwP//AMD//wDA//8AwP//AMD//wDA/1YAwP8cAMD//wDA//8AwP//AMD//wDA//8Awf//ANH//wDR
+        //8A0f//ANH//wDR//8ARFP/AAAA/wAAAP8AAAD/AAAA/wBFVP8A0f//ANH//wDR//8A0f//AE5f/wAx
+        PP8Aqc7/ANH//wDR//8A0f//ANH//wDR//8Astn/AAcI/wAPEv8Avuj/ANH//wDR//8A0f//ANH//wDR
+        //8Aqc7/ADA6/wBOX/8A0f//ANH//wDR//8A0f//AICc/wADBP8AAAD/AAAA/wACA/8Af5v/ANH//wDR
+        //8A0f//ANH//wDR//8Awv//AMD//wDA//8AwP//AMD//wDA//8AwP8dAMD/AADA/9cAwP//AMD//wDA
+        //8AwP//AMD//wDN//8A0f//ANH//wDR//8A0f//AM77/wBxiv8AKDH/ACgx/wBxiv8Azvv/ANH//wDR
+        //8A0f//ANH//wDE7/8A0P7/ANH//wDR//8A0f//ANH//wDR//8Aq9H/ACs0/wAAAP8AAAD/AC44/wC7
+        5P8A0f//ANH//wDR//8A0f//ANH//wDQ/v8AxO//ANH//wDR//8A0f//ANH//wDR//8Ar9b/AG+H/wBw
+        if8Asdj/ANH//wDR//8A0f//ANH//wDR//8Azf//AMD//wDA//8AwP//AMD//wDA//8AwP/YAMD/AADA
+        /wAAwP+PAMD//wDA//8AwP//AMD//wDA//8Ax///ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Ayvf/ABke/wAA
+        AP8AAAD/AAAA/wAAAP8AIyv/AM77/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMf//wDA//8AwP//AMD//wDA
+        //8AwP//AMD/kADA/wAAwP8AAMD/OgDA//8AwP//AMD//wDA//8AwP//AMH//wDQ//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//AJS0/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wChxP8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AND//wDB
+        //8AwP//AMD//wDA//8AwP//AMD//wDA/zoAwP8AAMD/AADA/wEAwP/aAMD//wDA//8AwP//AMD//wDA
+        //8AyP//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wCDoP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8Alrf/ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDI//8AwP//AMD//wDA//8AwP//AMD//wDA/9sAwP8BAMD/AADA/wAAwP8AAMD/dADA
+        //8AwP//AMD//wDA//8AwP//AMH//wDQ//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8AuOD/AAME/wAAAP8AAAD/AAAA/wAA
+        AP8ACgz/AMPu/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDQ//8Awf//AMD//wDA//8AwP//AMD//wDA//8AwP90AMD/AADA
+        /wAAwP8AAMD/AADA/wwAwP/tAMD//wDA//8AwP//AMD//wDA//8Ax///ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wB4
+        k/8ABAX/AAAA/wAAAP8ABwn/AIqo/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Ax///AMD//wDA//8AwP//AMD//wDA
+        //8AwP/tAMD/DQDA/wAAwP8AAMD/AADA/wAAwP8AAMD/fwDA//8AwP//AMD//wDA//8AwP//AMD//wDN
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//AK7U/wBthf8Ab4j/ALXd/wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Azf//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD/fwDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/xAAwP/qAMD//wDA
+        //8AwP//AMD//wDA//8Awv//AND//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0P//AML//wDA//8AwP//AMD//wDA//8AwP//AMD/6gDA/xAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/YADA//8AwP//AMD//wDA//8AwP//AMD//wDF//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//AMX//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA/2EAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wEAwP/DAMD//wDA//8AwP//AMD//wDA//8AwP//AMf//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMf//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        /8MAwP8BAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/IgDA//AAwP//AMD//wDA
+        //8AwP//AMD//wDA//8AyP//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMj//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//AAwP8iAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP9UAMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDH//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AMf//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP9VAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/4gAwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMX//wDQ
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0P//AMX//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP+JAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8BAMD/pADA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8Awv//AM3//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8Azf//AML//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP+kAMD/AQDA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wYAwP+3AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8Ax///AND//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDQ//8Ax///AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP+3AMD/BgDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/BgDA/6UAwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDB
+        //8AyP//AND//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//AND//wDI//8Awf//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP+lAMD/BgDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8BAMD/jADA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDB//8Axv//AM3//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR
+        //8A0f//ANH//wDR//8A0f//ANH//wDR//8A0f//ANH//wDR//8Azf//AMb//wDB//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP+MAMD/AQDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP9VAMD/8QDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8Awf//AMX//wDK
+        //8Azf//AND//wDR//8A0f//ANH//wDR//8A0f//ANH//wDQ//8Azf//AMr//wDF//8Awf//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//EAwP9VAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/yQAwP/EAMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8Awf//AML//wDC//8Awv//AML//wDB//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA/8QAwP8jAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AQDA/2AAwP/rAMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD/6wDA
+        /2AAwP8BAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/EADA/38AwP/tAMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP/tAMD/fwDA/xAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/DQDA/3QAwP/VAMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA/9UAwP90AMD/DQDA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /zMAwP+NAMD/1wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA//8AwP//AMD//wDA
+        //8AwP//AMD//wDA//8AwP/XAMD/jQDA/zMAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8bAMD/VADA/30AwP+lAMD/ywDA/+MAwP/yAMD//wDA
+        //8AwP/yAMD/4wDA/8sAwP+lAMD/fQDA/1QAwP8bAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA/wAAwP8AAMD/AADA
+        /wAAwP8A////AAD///////gAAB//////wAAAA/////8AAAAA/////AAAAAA////4AAAAAB////AAAAAA
+        D///wAAAAAAD//+AAAAAAAH//wAAAAAAAP/+AAAAAAAAf/4AAAAAAAB//AAAAAAAAD/4AAAAAAAAH/AA
+        AAAAAAAP8AAAAAAAAA/gAAAAAAAAB+AAAAAAAAAHwAAAAAAAAAPAAAAAAAAAA4AAAAAAAAABgAAAAAAA
+        AAGAAAAAAAAAAYAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAcAA
+        AAAAAAADwAAAAAAAAAPgAAAAAAAAB+AAAAAAAAAH8AAAAAAAAA/wAAAAAAAAD/gAAAAAAAAf/AAAAAAA
+        AD/+AAAAAAAAf/4AAAAAAAB//wAAAAAAAP//gAAAAAAB///AAAAAAAP///AAAAAAD///+AAAAAAf///8
+        AAAAAD////8AAAAA/////8AAAAP/////+AAAH///////AAD///8=
+</value>
+  </data>
+  <data name="notifyIcon.Text" xml:space="preserve">
+    <value>GasStation</value>
+  </data>
+  <data name="notifyIcon.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>531, 442</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>GasStation</value>
+  </data>
+  <data name="&gt;&gt;timer.Name" xml:space="preserve">
+    <value>timer</value>
+  </data>
+  <data name="&gt;&gt;timer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabelDateTime.Name" xml:space="preserve">
+    <value>toolStripStatusLabelDateTime</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabelDateTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabelDataTime.Name" xml:space="preserve">
+    <value>toolStripStatusLabelDataTime</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabelDataTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripDropDownButtonCurrentDay.Name" xml:space="preserve">
+    <value>toolStripDropDownButtonCurrentDay</value>
+  </data>
+  <data name="&gt;&gt;toolStripDropDownButtonCurrentDay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripDropDownButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItemLangEng.Name" xml:space="preserve">
+    <value>toolStripMenuItemLangEng</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItemLangEng.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItemLang.Name" xml:space="preserve">
+    <value>toolStripMenuItemLang</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItemLang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;менюToolStripMenuItem.Name" xml:space="preserve">
+    <value>менюToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;менюToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItemChangeColor.Name" xml:space="preserve">
+    <value>toolStripMenuItemChangeColor</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItemChangeColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;notifyIcon.Name" xml:space="preserve">
+    <value>notifyIcon</value>
+  </data>
+  <data name="&gt;&gt;notifyIcon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NotifyIcon, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormGasStation</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

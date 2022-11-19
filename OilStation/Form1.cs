@@ -514,5 +514,25 @@ namespace OilStation
                 resources.ApplyResources(control, control.Name);
             }
         }
+
+        /// <summary>
+        /// Сворачивание в трей
+        /// </summary>
+        private void FormGasStation_Resize(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Minimized)
+            {
+                Hide();
+            }
+        }
+
+        /// <summary>
+        /// Разворачивание из трея
+        /// </summary>
+        private void notifyIcon_DoubleClick(object sender, EventArgs e)
+        {
+            Show();
+            WindowState = FormWindowState.Normal;
+        }
     }
 }
