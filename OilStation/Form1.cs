@@ -1,7 +1,9 @@
 ﻿using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Timer = System.Windows.Forms.Timer;
 
@@ -51,6 +53,7 @@ namespace OilStation
             toPaySum = 0;
             sumDay = 0;
             comboBoxPetrol.SelectedIndex = 0;
+            toolStripDropDownButtonCurrentDay.Text = DateTime.Now.ToShortDateString();
             textBoxPriceGasStation.Text = pricePetrol[0].ToString();
             textBoxPriceHotDog.Text = priceMiniCafe[0].ToString();
             textBoxPiceGamburger.Text = priceMiniCafe[1].ToString();
@@ -356,7 +359,7 @@ namespace OilStation
         }
 
         /// <summary>
-        /// Показывает общую сумму
+        /// Показывает общую сумму и запускает время в строке состояния
         /// </summary>
         private void button1_Click(object sender, EventArgs e)
         {
@@ -368,8 +371,11 @@ namespace OilStation
             {
                 labelToPaySum.Text = toPaySum.ToString();
             }
-            timer1.Tick += t_t;
-            timer1.Start();
+            timerStatusLabel.Tick += timer_StatusLabel;
+            if (timerStatusLabel.Enabled == false)
+            {
+                timerStatusLabel.Start();
+            }
             timer.Start();
         }
 
@@ -379,8 +385,8 @@ namespace OilStation
         DialogResult NewClient()
         {
             timer.Stop();
-            timer1.Stop();
-            return MessageBox.Show("Завершить работу с клиентом?", "Новый клиент", 
+
+            return MessageBox.Show("Завершить работу с клиентом?", "Новый клиент",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
 
@@ -389,6 +395,8 @@ namespace OilStation
         /// </summary>
         void FormClear()
         {
+            timerStatusLabel.Stop();
+
             sumDay += toPaySum;
             Text = sumDay.ToString();
             sumPetrol = 0;
@@ -418,16 +426,93 @@ namespace OilStation
 
         /// <summary>
         /// При закрытии формы появляется сообщение с суммой прибыли
+        /// если прибыли нет, сообщение не выводится
         /// </summary>
         private void FormGasStation_FormClosing(object sender, FormClosingEventArgs e)
         {
+            if (sumDay == 0)
+            {
+                return;
+            }
             MessageBox.Show(Text, "Прибыль", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-        Timer timer1 = new Timer() { Interval = 1000 };
-        void t_t(object sender, EventArgs e)
+        // Запускает таймер и в строке состояния выводится время или дата с интервалом в 1 с
+        Timer timerStatusLabel = new Timer() { Interval = 1000 };
+        bool flagTimer = true;
+        void timer_StatusLabel(object sender, EventArgs e)
         {
-            toolStripStatusLabelDateTime.Text = DateTime.Now.ToLongTimeString();
+            if (flagTimer)
+            {
+                toolStripStatusLabelDateTime.Text = DateTime.Now.ToLongTimeString();
+                flagTimer = false;
+            }
+            else
+            {
+                toolStripStatusLabelDateTime.Text = DateTime.Now.ToLongDateString();
+                flagTimer = true;
+            }
+        }
+
+        // Вызывает панель изменения цвета фона формы
+        private void toolStripMenuItemChangeColor_Click(object sender, EventArgs e)
+        {
+            panelChangeColor.Visible = true;
+        }
+
+        byte r = 0;
+        private void trackBarR_Scroll(object sender, EventArgs e)
+        {
+            r = (byte)trackBarR.Value;
+        }
+
+        byte g = 0;
+        private void trackBarG_Scroll(object sender, EventArgs e)
+        {
+            g = (byte)trackBarG.Value;
+        }
+
+        byte b = 0;
+        private void trackBarB_Scroll(object sender, EventArgs e)
+        {
+            b = (byte)trackBarB.Value;
+        }
+
+        /// <summary>
+        /// Изменение цвета фона формы
+        /// </summary>
+        private void buttonChangeColor_Click(object sender, EventArgs e)
+        {
+            BackColor = Color.FromArgb(r, g, b);
+            panelChangeColor.Visible = false;
+        }
+
+
+        /// <summary>
+        /// Изменение языка
+        /// </summary>
+        private void toolStripMenuItemLang_Click(object sender, EventArgs e)
+        {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("ru");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("ru");
+            ComponentResourceManager resources = new ComponentResourceManager(GetType());
+            resources.ApplyResources(this, "$this");
+            foreach (Control control in Controls)
+            {
+                resources.ApplyResources(control, control.Name);
+            }
+        }
+
+        private void toolStripMenuItemLangEng_Click(object sender, EventArgs e)
+        {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
+            ComponentResourceManager resources = new ComponentResourceManager(GetType());
+            resources.ApplyResources(this, "$this");
+            foreach (Control control in Controls)
+            {
+                resources.ApplyResources(control, control.Name);
+            }
         }
     }
 }
