@@ -499,7 +499,7 @@ namespace OilStation
             resources.ApplyResources(this, "$this");
             foreach (Control control in Controls)
             {
-                resources.ApplyResources(control, control.Text);
+                resources.ApplyResources(control, control.Name);
             }
         }
         /// <summary>
@@ -513,7 +513,7 @@ namespace OilStation
             resources.ApplyResources(this, "$this");
             foreach (Control control in Controls)
             {
-                resources.ApplyResources(control, control.Text);
+                resources.ApplyResources(control, control.Name);
             }
         }
 
