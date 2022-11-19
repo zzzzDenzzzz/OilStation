@@ -489,7 +489,7 @@ namespace OilStation
 
 
         /// <summary>
-        /// Изменение языка
+        /// Изменение языка на русский
         /// </summary>
         private void toolStripMenuItemLang_Click(object sender, EventArgs e)
         {
@@ -499,10 +499,12 @@ namespace OilStation
             resources.ApplyResources(this, "$this");
             foreach (Control control in Controls)
             {
-                resources.ApplyResources(control, control.Name);
+                resources.ApplyResources(control, control.Text);
             }
         }
-
+        /// <summary>
+        /// Изменение языка на английский
+        /// </summary>
         private void toolStripMenuItemLangEng_Click(object sender, EventArgs e)
         {
             Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
@@ -511,7 +513,7 @@ namespace OilStation
             resources.ApplyResources(this, "$this");
             foreach (Control control in Controls)
             {
-                resources.ApplyResources(control, control.Name);
+                resources.ApplyResources(control, control.Text);
             }
         }
 
